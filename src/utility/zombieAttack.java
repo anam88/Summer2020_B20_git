@@ -1,7 +1,7 @@
 package utility;
 import java.util.Arrays;
 import java.util.Scanner;
-
+//this class was created to understand git commands
 public class zombieAttack {
 
     //Zombie Attack repl.it
