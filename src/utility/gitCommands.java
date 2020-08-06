@@ -1,5 +1,7 @@
 package utility;
 
+//The git commands we have learn so far
+
 import java.util.Scanner;
 
 public class gitCommands {
