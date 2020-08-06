@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class gitFun {
     public static void main(String[] args) {
-
+//This is a gitFun class
         Scanner input = new Scanner(System.in);
         System.out.println("Enter your message");
         String msg = input.nextLine();
